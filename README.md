@@ -44,7 +44,7 @@ The current solution works but has a lot of issues as it is not automated and th
 - All the libraries I used are available in Arduino's IDE
 - Don't forget to get the mac address of your own ESP32 and replace those in the source
 - DS18B20 is a bit innacurate and unstable but it is a popular cheap solution, you can calibrate it if you want but it will never be ver accurate or stable, especially the clones sold on AliExpress
-- The breakout board for the DS18B20 can be replaced with a normal 4.7KΩ resistor
+- The breakout board for the DS18B20 can be replaced with a normal 4.7KΩ pull up resistor
 - You can use different size oleds, I just used the ones that made sense for my usecase
 - The On/Off switch on unit #3 is used to reboot the unit in case the runtime exceeds the max runtime set which means something is wrong, if that happens the pump won't run until restarted. It can be also used to turn off the unit completely of course
 - You can wire a switch parallel to the relay to manually run the pump easily
