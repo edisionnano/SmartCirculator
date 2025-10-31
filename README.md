@@ -53,10 +53,22 @@ The current solution works but has a lot of issues as it is not automated and th
 - Cutting a square hole can be painful, for unt #2 I bought a hard plastic box so I had to drill many holes and then file it, for unit #3 I bought a soft plastic and I was able to cut the hole with an x-acto knife
 
 ### Unit 1 (Solar Monitor)
+<details>
+  <summary>Schematic</summary>
+  <img width="713" height="1411" alt="unit1" src="https://github.com/user-attachments/assets/996b81f7-7384-4cd2-899b-7a8234b1efbc" />
+</details>
 
 
 ### Unit 2 (Bathroom Dashboard, Optional)
+<details>
+  <summary>Schematic</summary>
+  <img width="1353" height="822" alt="unit2" src="https://github.com/user-attachments/assets/8b444066-6a73-4da9-b64e-2bd8450c6818" />
+</details>
 
 
 ### Unit 3 (Main Unit)
+<details>
+  <summary>Schematic</summary>
+  <img width="1836" height="2085" alt="unit3" src="https://github.com/user-attachments/assets/05f12927-ab2e-4769-8d9b-cabdce213950" />
+</details>
 
