@@ -58,6 +58,10 @@ The current solution works but has a lot of issues as it is not automated and th
   <img width="713" height="1411" alt="unit1" src="https://github.com/user-attachments/assets/996b81f7-7384-4cd2-899b-7a8234b1efbc" />
 </details>
 
+<details>
+  <summary>Photos</summary>
+  <img width="1209" height="907" alt="image" src="https://github.com/user-attachments/assets/943ebd58-5edc-483e-85c5-5bfa3d8ddfa9" />
+</details>
 
 ### Unit 2 (Bathroom Dashboard, Optional)
 <details>
@@ -65,6 +69,13 @@ The current solution works but has a lot of issues as it is not automated and th
   <img width="1353" height="822" alt="unit2" src="https://github.com/user-attachments/assets/8b444066-6a73-4da9-b64e-2bd8450c6818" />
 </details>
 
+<details>
+  <summary>Photos</summary>
+  <img width="1209" height="907" alt="image" src="https://github.com/user-attachments/assets/41c821fd-88ca-4bfe-a6ae-d1ef556722e1" />
+  <img width="1209" height="907" alt="image" src="https://github.com/user-attachments/assets/324557db-61a9-4c8e-ad93-3e549148a507" />
+  <img width="1209" height="907" alt="image" src="https://github.com/user-attachments/assets/9f7c75e1-d970-478d-9947-f3c42de66506" />
+  I have bridged + with C in the button, this is wrong as C should be bridged with - instead
+</details>
 
 ### Unit 3 (Main Unit)
 <details>
@@ -72,3 +83,8 @@ The current solution works but has a lot of issues as it is not automated and th
   <img width="1836" height="2085" alt="unit3" src="https://github.com/user-attachments/assets/05f12927-ab2e-4769-8d9b-cabdce213950" />
 </details>
 
+<details>
+  <summary>Photos</summary>
+  <img width="1209" height="907" alt="image" src="https://github.com/user-attachments/assets/91caaa43-b2a2-4d68-929c-2fa760c4717a" />
+  <img width="758" height="1011" alt="image" src="https://github.com/user-attachments/assets/0a677e3c-4125-494f-a11e-4d84bbeffc0e" />
+</details>
