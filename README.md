@@ -51,6 +51,7 @@ The current solution works but has a lot of issues as it is not automated and th
 - You can substitute the simple parts like switches and buttons with parts that you already have or ones that are available in local stores
 - Make sure the box that will be used for unit #1 is waterproof
 - Cutting a square hole can be painful, for unt #2 I bought a hard plastic box so I had to drill many holes and then file it, for unit #3 I bought a soft plastic and I was able to cut the hole with an x-acto knife
+- It's possible to create more dashboards like unit #2, unit #1's code already supports it; just add the MAC address
 
 ### Unit 1 (Solar Monitor)
 <details>
